@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jan 08 13:46:51 BOT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-3acc-da56-000009a174c0 
+on database directory memory:C:\Users\gustavo.santos\Documents\Teste_NT\Desafio automação API\prova-tecnica-api-master\testdb with class loader java.net.URLClassLoader@5af56240 
+Loaded from file:/C:/Users/gustavo.santos/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.12+8-LTS-237
+user.dir=C:\Users\gustavo.santos\Documents\Teste_NT\Desafio automação API\prova-tecnica-api-master
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
